@@ -8,7 +8,7 @@
 <body>
     <h1>SELAMAT DATANG!</h1>
     <h2>Terima kasih sudah bergabung di Website kami.Media Belajar kita bersama!</h2>
-    <img src="https://tse4.mm.bing.net/th?id=OIP.gtaca0_E3dNwtRWQBjcevgHaED&pid=Api&P=0&h=220" alt="Jabat Tangan" width="300" height="300"/>
+    <img src="WhatsApp Image 2025-01-15 at 11.07.46_dd04c450.jpg" alt="Ikan" width="300" height="300"/>
     <video controls src ="Selamat Datang.mp4" witdh="200" height="300" control autoplay loop>
     </video>
 </body>
