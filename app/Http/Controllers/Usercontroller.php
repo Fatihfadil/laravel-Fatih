@@ -16,4 +16,14 @@ class Usercontroller extends Controller
     {
         return view('Tugas2');
     }
-}
+
+   public function master()
+    {
+        return view('Template\master');
+    }
+
+   public function index()
+    {
+        return view('index');
+    }
+} 

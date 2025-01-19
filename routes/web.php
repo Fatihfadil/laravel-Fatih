@@ -23,3 +23,5 @@ Route::get('/', function () {
 
 Route::get('/1', [Usercontroller::class,'Tugas1']);
 Route::get('/2', [Usercontroller::class, 'Tugas2']);
+Route::get('/tem/master', [Usercontroller::class, 'master']);
+Route::get('/index', [Usercontroller::class, 'index']);
